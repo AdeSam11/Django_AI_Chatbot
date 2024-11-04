@@ -1,0 +1,1 @@
+In this project, I developed an interactive AI chatbot application using Django, enabling users to receive dynamic AI-generated responses to their queries. By integrating OpenAI's API, the chatbot mirrors conversational capabilities similar to chatGPT.
